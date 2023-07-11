@@ -1,0 +1,61 @@
+.btn1
+{
+	margin-left: 40px;
+	background:unset;
+	width: 250px;
+	height: 40px;
+	transition: 0.5;
+	border: inset;
+	border-style: none none solid none  ;
+	border-color: #A078FF;
+	text-align: center;
+
+}
+
+.btn1:hover{
+	margin-left: 60px;
+	width: 200px;
+	transition: 0.5s;
+	border-color: red;
+	height: 40px;
+}
+.btn1:active{
+	height: 80px;
+	border: inset;
+	border-style: none none solid none  ;
+	border-color: blue;
+	border-width: 2px;
+}
+.btn1:focus{
+	height: 40px;
+	transition: 0.5s;
+	border: inset;
+	border-style: solid  ;
+	border-radius: 25px;
+	border-color: blue red blue;
+	border-width: 2px;
+	margin-left: 90px;
+	width: 150px;
+}
+
+
+.btn2{
+	background:unset;
+	color: #A078FF;
+	border-color: black;
+    font-size: 20px;
+	border: solid;
+	border-radius: 25px;
+	cursor: pointer;
+	width: 160px;
+	height: 60px;
+	font-size: 40px;
+	margin-left: 88px;
+}
+.btn2:hover{
+	background-color:#A078FF;
+	color: white;
+	transition: 0.6s;
+	border: solid;
+	border-radius: 25px;
+}

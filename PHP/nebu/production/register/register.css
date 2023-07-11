@@ -1,0 +1,57 @@
+body{
+	background-image: url(./down.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+
+	font-family: 'Island Moments', cursive;
+font-family: 'Luxurious Roman', cursive;
+}
+
+.div-color{
+	margin-top:  30px;
+	margin-left: 25px;
+	width: 100%;
+	background-color: #0E272B;	
+	border-radius: 9px;
+}
+.input-text{
+	border: solid;
+	
+	border-radius: 23px;
+	height: 40px;
+	width: 100%;
+	font-size: 15px;
+	margin-left: 5px;
+
+}
+label{
+	margin-left: 10px;
+}
+.a-href{
+
+	color: white;
+
+}
+
+.kayıt-ol{
+	background-color: black;
+	color: white;
+	border-radius: 15px;
+	border: none;
+	height: 50px;
+	font-size: 20px;
+	
+}
+.kayıt-ol:hover{
+	background-color: white;
+	color: black;
+	height: 70px;
+	width: 150px;
+	cursor: pointer;
+	transition: 0.25s;
+}
+
+.resim1{
+	height: 15px;
+	width: 30px;	
+}
